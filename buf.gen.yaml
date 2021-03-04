@@ -1,0 +1,8 @@
+version: v1beta1
+plugins:
+  - name: java
+    out: java
+  - name: python
+    out: python
+  - name: js
+    out: js
